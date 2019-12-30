@@ -2,6 +2,7 @@
 #include <cstdio>
 #include <algorithm>
 using namespace std;
+
 int a[100010];
 int b[100010];
 void Merge(int a[],int s,int m, int e,int tmp[])
